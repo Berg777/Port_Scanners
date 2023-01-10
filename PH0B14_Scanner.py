@@ -1,6 +1,3 @@
-# Lucas Cesar Lintz Garbeloto    RM: 94370 
-# João Vitor Santos Neres        RM: 95395
-
 import socket
 import sys
 from datetime import datetime
